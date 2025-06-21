@@ -1,0 +1,12 @@
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\bin\Debug\UnicomTIC-MS.exe.config
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\bin\Debug\UnicomTIC-MS.exe
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\bin\Debug\UnicomTIC-MS.pdb
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\bin\Debug\System.Data.SQLite.xml
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\obj\Debug\UnicomTIC-MS.csproj.AssemblyReference.cache
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\obj\Debug\UnicomTIC_MS.Properties.Resources.resources
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\obj\Debug\UnicomTIC-MS.csproj.GenerateResource.cache
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\obj\Debug\UnicomTIC-MS.csproj.CoreCompileInputs.cache
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\obj\Debug\UnicomTI.611C3183.Up2Date
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\obj\Debug\UnicomTIC-MS.exe
+C:\Users\Disazhini\OneDrive\projectC#\TIC-MS\UnicomTIC-MS\obj\Debug\UnicomTIC-MS.pdb

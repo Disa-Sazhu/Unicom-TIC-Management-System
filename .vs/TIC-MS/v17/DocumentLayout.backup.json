@@ -1,0 +1,1289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|c:\\users\\disazhini\\onedrive\\projectc#\\tic-ms\\unicomtic-ms\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\studentlecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\studentlecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\studentlecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\studentlecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\studentlecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\studentlecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\studentlecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\studentlecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\studentlecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\studentlecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\studentsectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\studentsectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\studentsectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\studentsectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\studentsectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\studentsectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\studentsectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\studentsectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\studentexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\studentexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\studentexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\studentexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\studentexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\studentexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\studentexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\studentexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\studentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\studentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\studentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\studentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\studentcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\studentcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\timetableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\timetableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\timetablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\timetablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\timetabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\timetabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\data\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\data\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\stafff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\stafff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\sectionconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\sectionconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\sectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\sectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\markservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\markservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\markrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\markrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\lecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\lecturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\lecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\lecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\lecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\lecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\dtos\\markdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\dtos\\markdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\studentsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\studentsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\studentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\studentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\unicomtic-ms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B19931-F3E1-4F4C-921E-577382128F4C}|UnicomTIC-MS\\UnicomTIC-MS.csproj|solutionrelative:unicomtic-ms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\View\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\View\\LoginForm.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\View\\LoginForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:43:38.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\View\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\View\\LoginForm.cs [Design]",
+              "RelativeToolTip": "UnicomTIC-MS\\View\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:40:34.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentLecturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentLecturerDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\StudentLecturerDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentLecturerDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\StudentLecturerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:30:03.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentLecturerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentLecturerRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\StudentLecturerRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentLecturerRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\StudentLecturerRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:26:16.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Course.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:52:00.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentLecturerService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentLecturerService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\StudentLecturerService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentLecturerService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\StudentLecturerService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:56:26.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentLecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentLecturerController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\StudentLecturerController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentLecturerController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\StudentLecturerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:47:54.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentLecturer.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\StudentLecturer.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\StudentLecturer.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\StudentLecturer.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\StudentLecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:06:21.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentSectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentSectionService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\StudentSectionService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentSectionService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\StudentSectionService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:55:55.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentSectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentSectionRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\StudentSectionRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentSectionRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\StudentSectionRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:25:56.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentSectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentSectionDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\StudentSectionDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentSectionDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\StudentSectionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:25:13.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentSectionController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentSectionController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\StudentSectionController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentSectionController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\StudentSectionController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:47:13.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentExamController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentExamController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\StudentExamController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentExamController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\StudentExamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:46:46.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentExamService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\StudentExamService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentExamService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\StudentExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:55:22.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentExamRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\StudentExamRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentExamRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\StudentExamRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:25:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentExamDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentExamDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\StudentExamDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentExamDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\StudentExamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:21:38.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentCourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentCourseService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\StudentCourseService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentCourseService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\StudentCourseService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:54:21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentCourseRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\StudentCourseRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentCourseRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\StudentCourseRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:24:36.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentCourseDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\StudentCourseDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentCourseDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\StudentCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:17:08.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentCourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentCourseController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\StudentCourseController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentCourseController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\StudentCourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:46:21.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:49:56.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\SubjectService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\SubjectService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\SubjectService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:49:57.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SubjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\SubjectDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\SubjectDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\SubjectDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\SubjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:03:22.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\SubjectRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\SubjectRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:20:50.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Subject.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:52:32.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:04:54.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TimetableController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\TimetableController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\TimetableController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\TimetableController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\TimetableController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:50:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TimetableService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\TimetableService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\TimetableService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\TimetableService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\TimetableService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:53:13.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TimetableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\TimetableRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\TimetableRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\TimetableRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\TimetableRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:22:32.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TimetableDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\TimetableDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\TimetableDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\TimetableDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\TimetableDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:03:50.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Timetable.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Timetable.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Timetable.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Timetable.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Timetable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:01:02.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:33:23.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Enums\\UserRole.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:24:45.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DbCon.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Data\\DbCon.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Data\\DbCon.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Data\\DbCon.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Data\\DbCon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:35:56.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\DatabaseManager.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\DatabaseManager.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAkwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:40:54.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:34:31.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\users.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\users.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\users.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:25:26.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Stafff.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Stafff.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Stafff.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Stafff.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Stafff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:51:26.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\UserService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:51:48.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:53:02.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:48:40.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\StudentService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\StudentService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:49:00.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:19:22.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:35:00.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Student.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:27:16.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SectionConroller.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\SectionConroller.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\SectionConroller.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\SectionConroller.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\SectionConroller.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAnwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:47:07.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\SectionService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\SectionService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\SectionService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\SectionService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:53:50.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\SectionRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\SectionRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\SectionRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\SectionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:24:10.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\SectionDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\SectionDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\SectionDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\SectionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T02:11:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:45:01.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\RoomService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\RoomService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:52:44.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MarkService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\MarkService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\MarkService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\MarkService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\MarkService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:52:23.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:22:13.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\RoomDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\RoomDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T02:05:51.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Section.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:53:09.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MarkController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\MarkController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\MarkController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\MarkController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\MarkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:46:18.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MarkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\MarkRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\MarkRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\MarkRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\MarkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:21:28.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LecturerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\LecturerRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\LecturerRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\LecturerRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\LecturerRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:23:17.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Room.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:14:39.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Mark.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Mark.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Mark.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Mark.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Mark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:53:40.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\LecturerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:45:38.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LecturerService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\LecturerService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\LecturerService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\LecturerService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\LecturerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:50:36.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LecturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\LecturerDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\LecturerDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\LecturerDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\LecturerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:55:00.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Lecturer.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:50:49.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:44:33.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\ExamService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\ExamService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\ExamService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\ExamService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:51:51.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\ExamRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\ExamRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\ExamRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\ExamRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:21:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:20:17.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:43:47.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Services\\CourseService.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:49:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\CourseDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\CourseDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:35:39.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ExamDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\ExamDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\ExamDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\ExamDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\ExamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T01:02:56.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MarkDto.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\MarkDto.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\DTOs\\MarkDto.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\DTOs\\MarkDto.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\DTOs\\MarkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:36:02.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:36:29.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "StudentSection.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\StudentSection.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\StudentSection.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\StudentSection.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\StudentSection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:40:44.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "StudentExam.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\StudentExam.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\StudentExam.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\StudentExam.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\StudentExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:41:25.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Models\\Exam.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:56:32.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Program.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Program.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Program.cs",
+              "RelativeToolTip": "UnicomTIC-MS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:54:56.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Form1.cs",
+              "RelativeDocumentMoniker": "UnicomTIC-MS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Disazhini\\OneDrive\\projectC#\\TIC-MS\\UnicomTIC-MS\\Form1.cs [Design]",
+              "RelativeToolTip": "UnicomTIC-MS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:19:09.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

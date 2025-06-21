@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicomTIC-MS", "UnicomTIC-MS\UnicomTIC-MS.csproj", "{57B19931-F3E1-4F4C-921E-577382128F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B19931-F3E1-4F4C-921E-577382128F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B19931-F3E1-4F4C-921E-577382128F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B19931-F3E1-4F4C-921E-577382128F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B19931-F3E1-4F4C-921E-577382128F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67DF20D2-BA5F-4D25-86DA-71CEA7C119AB}
+	EndGlobalSection
+EndGlobal
