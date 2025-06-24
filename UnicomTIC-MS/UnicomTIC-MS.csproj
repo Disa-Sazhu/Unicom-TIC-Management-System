@@ -94,6 +94,7 @@
     <Compile Include="Models\Mark.cs" />
     <Compile Include="Models\Room.cs" />
     <Compile Include="Models\Section.cs" />
+    <Compile Include="Models\Staff.cs" />
     <Compile Include="Models\Stafff.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Models\StudentCourse.cs" />
@@ -134,11 +135,81 @@
     <Compile Include="Services\SubjectService.cs" />
     <Compile Include="Services\TimetableService.cs" />
     <Compile Include="Services\UserService.cs" />
+    <Compile Include="UserControls\AdminDashboardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\AdminDashboardControl.Designer.cs">
+      <DependentUpon>AdminDashboardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LecturerDashboardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\LecturerDashboardControl.Designer.cs">
+      <DependentUpon>LecturerDashboardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\StaffDashboardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\StaffDashboardControl.Designer.cs">
+      <DependentUpon>StaffDashboardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\StudentDsahboardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\StudentDsahboardControl.Designer.cs">
+      <DependentUpon>StudentDsahboardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CourseForm.Designer.cs" />
+    <Compile Include="View\ExamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ExamForm.Designer.cs" />
+    <Compile Include="View\LecturerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\LecturerForm.Designer.cs" />
     <Compile Include="View\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\LoginForm.Designer.cs">
-      <DependentUpon>LoginForm.cs</DependentUpon>
+    <Compile Include="View\LoginForm.Designer.cs" />
+    <Compile Include="View\MainDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MainDashboardForm.Designer.cs" />
+    <Compile Include="View\MarkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MarkForm.Designer.cs" />
+    <Compile Include="View\StudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\StudentForm.Designer.cs" />
+    <Compile Include="View\StudentLecturerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\StudentLecturerForm.Designer.cs">
+      <DependentUpon>StudentLecturerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\StudentSectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\StudentSectionForm.Designer.cs">
+      <DependentUpon>StudentSectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SubjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\SubjectForm.Designer.cs">
+      <DependentUpon>SubjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\TimetableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\TimetableForm.Designer.cs">
+      <DependentUpon>TimetableForm.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -149,8 +220,14 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="View\LoginForm.resx">
-      <DependentUpon>LoginForm.cs</DependentUpon>
+    <EmbeddedResource Include="View\CourseForm.resx" />
+    <EmbeddedResource Include="View\ExamForm.resx" />
+    <EmbeddedResource Include="View\LecturerForm.resx" />
+    <EmbeddedResource Include="View\LoginForm.resx" />
+    <EmbeddedResource Include="View\MainDashboardForm.resx" />
+    <EmbeddedResource Include="View\MarkForm.resx" />
+    <EmbeddedResource Include="View\StudentForm.resx">
+      <DependentUpon>StudentForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
